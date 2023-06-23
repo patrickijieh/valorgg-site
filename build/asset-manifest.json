@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.424bbd87.css",
+    "main.js": "/static/js/main.d9599465.js",
+    "static/media/background-image.jpg": "/static/media/background-image.c0200845bd37245eacb3.jpg",
+    "static/media/valorantgg icon.png": "/static/media/valorantgg icon.846aa0557af3947114b8.png",
+    "static/media/immortal_3.webp": "/static/media/immortal_3.4c340d81c5aab5ba989a.webp",
+    "static/media/gold_3.webp": "/static/media/gold_3.59923f5aa67d43930093.webp",
+    "static/media/diamond_3.webp": "/static/media/diamond_3.981361b36f0bfdeaf046.webp",
+    "static/media/platinum_3.webp": "/static/media/platinum_3.d6af8034260fbd3d8c5c.webp",
+    "static/media/immortal_2.webp": "/static/media/immortal_2.89c3ee877afec9b95eb7.webp",
+    "static/media/bronze_3.webp": "/static/media/bronze_3.9afab110550f9d36c9d7.webp",
+    "static/media/silver_3.webp": "/static/media/silver_3.7075cb074004f33cac10.webp",
+    "static/media/gold_2.webp": "/static/media/gold_2.182c24d3bc9501b6e2c4.webp",
+    "static/media/diamond_2.webp": "/static/media/diamond_2.9fb2046f62ce5163eca0.webp",
+    "static/media/ascendant_3.webp": "/static/media/ascendant_3.ce39cdd5da2eecfe3707.webp",
+    "static/media/iron_3.webp": "/static/media/iron_3.b4b369e6435c585e3d0b.webp",
+    "static/media/radiant.webp": "/static/media/radiant.62ee228c3a16788c1c2f.webp",
+    "static/media/bronze_2.webp": "/static/media/bronze_2.5a41db76420d4edd46e9.webp",
+    "static/media/platinum_2.webp": "/static/media/platinum_2.62dc3e01760f97b0bd6a.webp",
+    "static/media/silver_2.webp": "/static/media/silver_2.cce70611bd2a0eb090a1.webp",
+    "static/media/iron_2.webp": "/static/media/iron_2.b153538a2d7a4cba17dc.webp",
+    "static/media/ascendant_2.webp": "/static/media/ascendant_2.80f26d9f9d16c57f7175.webp",
+    "static/media/immortal_1.webp": "/static/media/immortal_1.8aa52774055b5ceb83a8.webp",
+    "static/media/gold_1.webp": "/static/media/gold_1.97b7d312a8645a8a35af.webp",
+    "static/media/diamond_1.webp": "/static/media/diamond_1.4e9d8c95b28da38ffbab.webp",
+    "static/media/platinum_1.webp": "/static/media/platinum_1.a829e1de769b228ce5f6.webp",
+    "static/media/bronze_1.webp": "/static/media/bronze_1.7c076e239fffeb19110d.webp",
+    "static/media/unranked.webp": "/static/media/unranked.d803bc4569dc24cd2312.webp",
+    "static/media/ascendant_1.webp": "/static/media/ascendant_1.19c8c92329d2da44377b.webp",
+    "static/media/silver_1.webp": "/static/media/silver_1.6752df545d514e361cd4.webp",
+    "static/media/iron_1.webp": "/static/media/iron_1.29f6eefa2b8f9a2d4c06.webp",
+    "index.html": "/index.html",
+    "main.424bbd87.css.map": "/static/css/main.424bbd87.css.map",
+    "main.d9599465.js.map": "/static/js/main.d9599465.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.424bbd87.css",
+    "static/js/main.d9599465.js"
+  ]
+}
