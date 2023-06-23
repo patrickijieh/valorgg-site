@@ -27,4 +27,4 @@ const accountRouter = require('./routes/users');
 app.use('/users', accountRouter);
 
 // open server
-app.listen(3000, () => console.log('Server started'));
+app.listen(PROCESS.ENV.PORT, () => console.log('Server started'));
