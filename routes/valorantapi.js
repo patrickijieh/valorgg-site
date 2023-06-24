@@ -1,4 +1,4 @@
-import fetch from "node-fetch";
+const fetch = require("node-fetch-commonjs");
 const express = require('express');
 const router = express.Router();
 
